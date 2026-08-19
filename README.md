@@ -51,7 +51,7 @@ Technical Instruction, Mentoring, Course Design, Stakeholder Communication
 
 ### 💼 Experience
 
-**Entrepreneur & Applied AI Lead — CEET, IIT Madras** *(2025 – Present)*  
+**Entrepreneur & Senior AI Engineer Lead — CEET, IIT Madras** *(2025 – Present)*  
 - Building multilingual AI systems for education, FinTech, and public-sector use cases  
 - Leading AI lab execution across research, engineering, and deployment  
 - Coordinating cross-functional teams and external stakeholders  
